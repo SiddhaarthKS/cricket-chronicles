@@ -1,0 +1,4 @@
+requests
+pandas
+streamlit  # or dash, depending on your preference
+scikit-learn
